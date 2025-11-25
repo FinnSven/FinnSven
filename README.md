@@ -36,7 +36,7 @@
 
   - Web: [jameshussey.se](https://jameshussey.se)
   - Email: james@jameshussey.se
-  - LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+  - LinkedIn: [Connect with me](https://www.linkedin.com/in/james-hussey-gbg/)
 
   ---
 
