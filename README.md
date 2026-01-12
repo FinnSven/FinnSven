@@ -1,45 +1,63 @@
+# James Hussey
 
-  # James Hussey
+**Senior Backend Developer | .NET & Java | Gothenburg, Sweden**
 
-  **Backend Developer | Enterprise Java | Sweden**
+Building robust, scalable systems with a focus on clean architecture, microservices, and code quality.
 
-  Building robust, scalable systems with a focus on clean architecture and code quality.
+---
 
-  ## Current Focus
+## Current Focus
 
-  - Enterprise Java development with Spring Boot, CDI, and queue-based architectures
-  - Modern Java features (Records, Sealed Classes, Pattern Matching)
-  - Full-stack exploration with Python, React, and AI integrations
+- Enterprise backend development with **.NET Core** and **Java/Spring Boot**
+- **Microservices** architecture with Kafka, message queues, and event-driven patterns
+- **Clean Architecture** and domain-driven design principles
+- AI/ML integrations and trading data analysis
 
-  ## Tech Stack
+---
 
-  **Backend**: Java 17+, Spring Boot, CDI/Weld, Hibernate, PostgreSQL, Redis
+## Tech Stack
 
-  **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+**Backend:** C#, .NET Core/8, ASP.NET Web API, Java 17+, Spring Boot, Entity Framework, Hibernate
 
-  **Tools**: Gradle, Docker, Git, Liquibase, TestContainers
+**Architecture:** Microservices, Clean Architecture, CQRS, DDD, Event-Driven
 
-  **Learning**: AI/ML integrations, Python FastAPI, C#/.NET
+**Messaging:** Apache Kafka, IBM MQ, RabbitMQ
 
-  ## Featured Projects
+**Databases:** PostgreSQL, SQL Server, Redis, MongoDB
 
-  | Project | Description | Tech |
-  |---------|-------------|------|
-  | [JobbTrawl](https://github.com/FinnSven/JobbTrawl) | AI-powered job search aggregator
-   | Python, Flask, PostgreSQL |
-  | Portfolio Website | Personal portfolio showcasing enterprise work | Next.js, React,
-  Tailwind |
-  | Flight Ancillary Recommender | AI recommendations for travel add-ons | Python,
-  FastAPI, Claude API |
+**Cloud & DevOps:** Azure (App Services, Key Vault), Docker, Kubernetes, CI/CD
 
-  ## Contact
+**Frontend:** Angular, TypeScript, React
 
-  - Web: [jameshussey.se](https://jameshussey.se)
-  - Email: james@jameshussey.se
-  - LinkedIn: [Connect with me](https://www.linkedin.com/in/james-hussey-gbg/)
+---
 
-  ---
+## Featured Projects
 
-  *Based in Sweden | Open to remote opportunities*
+| Project | Description | Tech |
+|---------|-------------|------|
+| [NordMod](https://github.com/FinnSven/Nordmod_CSharpDemonstration) | EU Digital Services Act content moderation API | .NET 8, Clean Architecture, EF Core |
+| TradingAnalytics | Financial trading API with technical analysis | .NET 8, SignalR, Claude API |
+| Flight Ancillary Recommender | AI-powered travel add-on recommendations | Python, FastAPI, Claude API |
+| Live Polling System | Real-time presentation polling backend | .NET 8, CQRS, SQLite |
 
+---
 
+## Experience Highlights
+
+- **6+ years** in enterprise software development
+- **Tech Lead** experience with full project ownership
+- **Microservices** at scale with Kafka and distributed systems
+- **Mentoring** and coaching junior developers
+- Fluent in **Swedish** and native **English**
+
+---
+
+## Contact
+
+- **Web:** [jamestech.se](https://jamestech.se)
+- **Email:** jamie.hussey@gmail.com
+- **LinkedIn:** [linkedin.com/in/jamiehussey](https://linkedin.com/in/jamiehussey)
+
+---
+
+*Based in Gothenburg, Sweden | Open to senior backend opportunities*
